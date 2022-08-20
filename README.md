@@ -1,1 +1,1 @@
-# TraderFXM
+# traderfxm
